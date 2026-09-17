@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetTechApi", "VetTechApi\VetTechApi.csproj", "{6FE4BD15-62A7-4273-A92E-05A6A5E83522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE4BD15-62A7-4273-A92E-05A6A5E83522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE4BD15-62A7-4273-A92E-05A6A5E83522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE4BD15-62A7-4273-A92E-05A6A5E83522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE4BD15-62A7-4273-A92E-05A6A5E83522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A241932B-B4EF-47FD-B6D7-0C53605F2D42}
+	EndGlobalSection
+EndGlobal
